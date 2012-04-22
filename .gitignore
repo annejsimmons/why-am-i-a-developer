@@ -2,5 +2,6 @@
 bin
 obj
 
-# mstest test results
-TestResults
+# ReSharper is a .NET coding add-in
+_ReSharper*
+
