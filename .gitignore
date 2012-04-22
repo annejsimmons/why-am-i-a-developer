@@ -4,6 +4,8 @@ obj
 
 # ReSharper is a .NET coding add-in
 _ReSharper*
+*.DotSettings
+*.ReSharper
 
 # User-specific files
 *.suo
